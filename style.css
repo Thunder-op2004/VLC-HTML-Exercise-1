@@ -1,0 +1,9 @@
+.preview-border{
+    margin: 0.6rem;
+    border: 10px solid black;
+}
+
+.audio-border{
+    margin: 0.6rem;
+    border: 5px solid black;
+}
